@@ -45,20 +45,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dau6&" alt="dau6" /></p>
 
-
-
-### Why Some GitHub Stats Are Not Displayed
-
-🔒 **Private Repositories**
-
-Some of my GitHub statistics and activity are not displayed publicly because they pertain to private repositories. GitHub respects the privacy of these repositories, and as such, any commits, issues, or other activities related to them are not included in public stats.
-
-Private repositories are hidden from public view to protect sensitive or proprietary information. This ensures that only authorized collaborators have access to the content and activity within these repositories.
-
-If you are a collaborator on any of my private repositories, you will be able to see the full activity and statistics when you log in to your GitHub account and access the repositories directly. For those who do not have access, only public repository activities are visible.
-
-🔓 **Public Repositories**
-
-On the other hand, all activity related to my public repositories is fully visible and contributes to the overall GitHub statistics shown on my profile. This includes commits, pull requests, issues, and other contributions.
-
-Thank you for understanding the importance of privacy and security for certain projects! 😊
