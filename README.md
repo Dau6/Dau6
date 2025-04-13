@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **ConnectCare**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Cyber Security (Red Teamer)**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/balila-daudi-96493823a/](https://www.linkedin.com/in/balila-daudi-96493823a/)
 
